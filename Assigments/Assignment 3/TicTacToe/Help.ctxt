@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Help
+comment0.text=\r\nThis\ is\ gui\ for\ the\ help\ pop-up\r\n\r\n\ @author\ Varrahan\ Uthayan\ 101229572\r\n\ @version\ March\ 08,\ 2023\r\n
+comment1.params=
+comment1.target=Help()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Help\r\n
+numComments=2

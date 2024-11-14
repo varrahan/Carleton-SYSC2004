@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ Subclass\ extends\ from\ class\ Item.\ Class\ is\ used\ to\ create\ the\ beamer\ object\r\n\ that\ is\ stored\ in\ rooms\r\n\r\n\ @author\ Varrahan\ Uthayan\ 101229572\r\n\ @version\ March\ 03,\ 2023\r\n
+comment1.params=weight\ description\ name\ charge
+comment1.target=Beamer(double,\ java.lang.String,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Beamer\r\n\ @param\ weight\ The\ weight\ of\ the\ item\r\n\ @param\ description\ A\ long\ description\ of\ the\ item\r\n\ @param\ name\ The\ name\ of\ the\ object\r\n\ @param\ charge\ The\ charge\ of\ the\ beamer.\ \r\n
+comment2.params=
+comment2.target=void\ chargeBeamer()
+comment2.text=\r\n\ Charges\ the\ beamer\ so\ that\ the\ beamer\ can\ fire\r\n\r\n
+comment3.params=
+comment3.target=void\ fireBeamer()
+comment3.text=\r\n\ Fires\ the\ beamer\ and\ sets\ charge\ to\ false\r\n
+comment4.params=
+comment4.target=boolean\ getCharge()
+comment4.text=\r\n\ Checks\ to\ see\ if\ beamer\ has\ already\ been\ charged\ or\ not\r\n\ @return\ returns\ the\ value\ of\ charge\r\n
+numComments=5
