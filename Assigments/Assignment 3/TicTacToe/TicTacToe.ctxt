@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment0.text=\r\n\ This\ is\ a\ TicTacToe\ game\r\n\r\n\ @author\ Varrahan\ Uthayan\ 101229572\r\n\ @version\ April\ 8,\ 2023\r\n
+comment1.params=
+comment1.target=TicTacToe()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TicTacToe\r\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\r\n\ Sets\ up\ the\ board\ to\ play\ the\ game.\ Changes\ the\ title\ to\ whatever\ player\r\n\ is\ currently\ playing.\r\n
+comment3.params=
+comment3.target=void\ title()
+comment3.text=\r\n\ Creates\ a\ label\ that\ is\ set\ at\ the\ top\ of\ the\ panel\ to\ act\ as\ a\ title\r\n\ for\ the\ game\r\n
+comment4.params=
+comment4.target=void\ help()
+comment4.text=\r\n\ Builds\ the\ gui\ for\ the\ help\ button\r\n
+comment5.params=
+comment5.target=void\ main()
+comment5.text=\r\n\ Creates\ the\ tic-tac-toe\ board\r\n
+comment6.params=
+comment6.target=void\ low()
+comment6.text=\r\n\ Method\ used\ to\ create\ the\ lower\ panel\ of\ the\ tic-tac-toe\ game.\ This\ panel\r\n\ includes\ how\ many\ times\ X\ won,\ how\ many\ times\ O\ won,\ and\ how\ many\ tied\ games\r\n\ there\ were\ in\ a\ session\r\n
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.text=\r\n\ Method\ used\ to\ perform\ all\ the\ actions\ in\ the\ game\ involving\ the\ buttons.\r\n\ This\ includes\ playing\ a\ new\ game,\ quiting\ the\ game,\ and\ what\ space\ the\ player\r\n\ is\ placing\ down\ their\ mark\ (X\ or\ O).\ Method\ also\ updates\ the\ botton\ label's\r\n\ scores.\r\n\r\n\ @param\ e\ The\ button\ that\ is\ being\ pressed.\r\n
+numComments=8

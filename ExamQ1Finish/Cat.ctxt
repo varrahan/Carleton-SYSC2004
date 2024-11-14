@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cat
+comment0.text=\r\n\ The\ Cat\ class\ from\ Final\ Exam\ Review\ Questions\ Part\ 1\r\n\r\n\ @author\ Lynn\ Marshall\r\n\ @version\ 1.0\r\n
+comment1.params=name\ weight\ numLegs\ colour
+comment1.target=Cat(java.lang.String,\ double,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cat\:\ 3b\r\n\ \r\n\ @param\ name\ The\ animal/mammal/cat's\ name\r\n\ @param\ weight\ The\ mammal/cat\ weight\r\n\ @param\ numLegs\ The\ mammal/cat\ number\ of\ legs\r\n\ @param\ colour\ The\ cat's\ colour\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ toString\ returns\ a\ string\ representation\ of\ the\ cat\ as\:\r\n\ "This\ cat\ is\ a\ <colour>\ <name>.\ \r\n\ It\ has\ <numLegs>\ legs,\ and\ a\ weight\ of\ <weight>kgs."\r\n\ \r\n\ @return\ the\ string\ representation\r\n
+numComments=3

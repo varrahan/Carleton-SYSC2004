@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentView
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ StudentView\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=stName\ stNumber
+comment1.target=void\ printStudentDetails(java.lang.String,\ int)
+numComments=2

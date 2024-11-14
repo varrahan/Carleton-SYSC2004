@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StudentController
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StudentController\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=student\ view
+comment1.target=StudentController(Student,\ StudentView)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StudentController\r\n
+comment2.params=name
+comment2.target=void\ setStudentName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getStudentName()
+comment4.params=number
+comment4.target=void\ setStudentNumber(int)
+comment5.params=
+comment5.target=int\ getStudentNumber()
+comment6.params=view
+comment6.target=void\ updateView(StudentView)
+numComments=7
